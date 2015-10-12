@@ -1,3 +1,5 @@
+package src.src;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
@@ -5,7 +7,7 @@ import java.util.Random;
 public enum DiceValue {
 	CROWN, ANCHOR, HEART, DIAMOND, CLUB, SPADE;
 	
-	private static Random RANDOM = new Random();
+	public static Random RANDOM = new Random();
 	
 	private static final Map<DiceValue, String> VALUE_REPR_MAP= new HashMap<DiceValue, String>();
 	static {
