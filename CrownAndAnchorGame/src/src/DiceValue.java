@@ -7,7 +7,7 @@ import java.util.Random;
 public enum DiceValue {
 	CROWN, ANCHOR, HEART, DIAMOND, CLUB, SPADE;
 	
-	public static Random RANDOM = new Random();
+	public static Random RANDOM = new Random(6);
 	
 	private static final Map<DiceValue, String> VALUE_REPR_MAP= new HashMap<DiceValue, String>();
 	static {

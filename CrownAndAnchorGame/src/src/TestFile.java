@@ -6,6 +6,7 @@
 package src.src;
 
 import java.util.List;
+import java.util.Random;
 
 /**
  *
@@ -14,13 +15,13 @@ import java.util.List;
 public class TestFile {
     public static void main(String[] args)
     {
-        runWinPayoutTest();
+        runWinPayoutTest(DiceValue.ANCHOR);
     }
     
-    public static void runWinPayoutTest()
+    public static void runWinPayoutTest(DiceValue pick)
     {
         // set seed to produce consistent results
-        DiceValue.RANDOM.setSeed(1);
+        
         
         // initialise variables
         int bet = 5;
@@ -32,21 +33,21 @@ public class TestFile {
 
         Player player = new Player("Fred", 100);
         Game game = new Game(d1, d2, d3);
-        List<DiceValue> cdv = game.getDiceValues();
-        DiceValue pick = DiceValue.CROWN;
         
+        List<DiceValue> cdv = game.getDiceValues();
+
         // output player selection
         System.out.printf("%s bet %d on %s\n",
                             player.getName(), bet, pick);
-        
+
         // round of game played
         winnings = game.playRound(player, pick, bet);
         cdv = game.getDiceValues();
-        
+
         // output game result after round
         System.out.printf("Rolled %s, %s, %s\n",
                             cdv.get(0), cdv.get(1), cdv.get(2));
-        
+
         if (winnings > 0) 
         {
             System.out.printf("%s won %d, balance now %d\n\n",
