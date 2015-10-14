@@ -1,4 +1,4 @@
-package src.src;
+package src;
 
 import java.util.List;
 import java.io.*;
@@ -7,7 +7,7 @@ public class Main {
 	
 	public static void main(String[] args) throws Exception {
 		
-        BufferedReader console = new BufferedReader(new InputStreamReader(System.in));
+	   BufferedReader console = new BufferedReader(new InputStreamReader(System.in));
 
         Dice d1 = new Dice();
         Dice d2 = new Dice();

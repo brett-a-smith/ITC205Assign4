@@ -1,0 +1,12 @@
+run:
+Fred bet 5 on CROWN
+Rolled CROWN, DIAMOND, DIAMOND
+Fred won 5, balance now 100
+
+Fred bet 5 on CLUB
+Rolled CLUB, CROWN, CLUB
+Fred won 10, balance now 105
+
+Fred bet 5 on HEART
+Rolled HEART, HEART, HEART
+Fred won 15, balance now 110

@@ -1,0 +1,102 @@
+run:
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 105
+
+Game run: 0
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 110
+
+Game run: 1
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 115
+
+Game run: 2
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 120
+
+Game run: 3
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 125
+
+Game run: 4
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 130
+
+Game run: 5
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 135
+
+Game run: 6
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 140
+
+Game run: 7
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 145
+
+Game run: 8
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 150
+
+Game run: 9
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 155
+
+Game run: 10
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 160
+
+Game run: 11
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 165
+
+Game run: 12
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 170
+
+Game run: 13
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 175
+
+Game run: 14
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 180
+
+Game run: 15
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 185
+
+Game run: 16
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 190
+
+Game run: 17
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 195
+
+Game run: 18
+Fred bet 5 on HEART
+Rolled HEART, HEART, DIAMOND
+Fred won 10, balance now 200
+
+Game run: 19
+Won games: 20 Lost games: 0 Ratio: 1.0
