@@ -6,7 +6,6 @@
 package src;
 
 import java.util.List;
-import java.util.Random;
 
 /**
  *
@@ -15,7 +14,7 @@ import java.util.Random;
 public class TestFile {
     public static void main(String[] args)
     {
-        runAutomatedWinPayoutTest();
+        runOddsCheck();
     }
     
     public static void runWinPayoutTest(DiceValue pick)
