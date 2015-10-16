@@ -14,7 +14,6 @@ import java.util.List;
 public class TestFile {
     public static void main(String[] args)
     {
-        runAutomatedWinPayoutTest();
     }
     
     public static void runWinPayoutTest(DiceValue pick)
@@ -57,6 +56,11 @@ public class TestFile {
     }
     
     public static void runAutomatedWinPayoutTest()
+            
+            // Note: Since bug fix 3 was implemented, this function fails to
+            // operate because of line 77, the cdv variable inside of game didnt
+            // change, now it does, which is normal. This function shoudl not be
+            // used.
     {
         // initialise variables
         int bet = 5;

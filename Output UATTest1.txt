@@ -1,0 +1,20 @@
+run:
+Fred bet 5 on DIAMOND
+Rolled DIAMOND, HEART, CLUB
+Fred won 5, balance now 105
+
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+run:
+Fred bet 5 on CROWN
+Rolled ANCHOR, CROWN, CROWN
+Fred won 10, balance now 110
+
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+run:
+Fred bet 5 on CLUB
+Rolled CLUB, CLUB, CLUB
+Fred won 15, balance now 115
+
+BUILD SUCCESSFUL (total time: 0 seconds)
