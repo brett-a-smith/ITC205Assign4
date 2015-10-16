@@ -1,0 +1,136 @@
+run:
+Fred bet 5 on DIAMOND
+Rolled ANCHOR, CLUB, ANCHOR
+Fred lost, balance now 95
+
+Fred bet 5 on ANCHOR
+Rolled DIAMOND, ANCHOR, ANCHOR
+Fred won 10, balance now 100
+
+Fred bet 5 on CROWN
+Rolled DIAMOND, CLUB, ANCHOR
+Fred lost, balance now 95
+
+Fred bet 5 on DIAMOND
+Rolled CLUB, CROWN, ANCHOR
+Fred lost, balance now 90
+
+Fred bet 5 on DIAMOND
+Rolled CROWN, CLUB, CLUB
+Fred lost, balance now 85
+
+Fred bet 5 on CLUB
+Rolled HEART, ANCHOR, CROWN
+Fred lost, balance now 80
+
+Fred bet 5 on DIAMOND
+Rolled ANCHOR, HEART, CROWN
+Fred lost, balance now 75
+
+Fred bet 5 on CROWN
+Rolled CLUB, HEART, DIAMOND
+Fred lost, balance now 70
+
+Fred bet 5 on HEART
+Rolled CROWN, CROWN, CLUB
+Fred lost, balance now 65
+
+Fred bet 5 on CLUB
+Rolled CROWN, CROWN, CLUB
+Fred won 5, balance now 65
+
+Fred bet 5 on ANCHOR
+Rolled DIAMOND, DIAMOND, CLUB
+Fred lost, balance now 60
+
+Fred bet 5 on ANCHOR
+Rolled CLUB, DIAMOND, CROWN
+Fred lost, balance now 55
+
+Fred bet 5 on CLUB
+Rolled CLUB, HEART, CROWN
+Fred won 5, balance now 55
+
+Fred bet 5 on HEART
+Rolled DIAMOND, DIAMOND, HEART
+Fred won 5, balance now 55
+
+Fred bet 5 on HEART
+Rolled ANCHOR, HEART, ANCHOR
+Fred won 5, balance now 55
+
+Fred bet 5 on ANCHOR
+Rolled ANCHOR, DIAMOND, ANCHOR
+Fred won 10, balance now 60
+
+Fred bet 5 on DIAMOND
+Rolled CROWN, CLUB, CLUB
+Fred lost, balance now 55
+
+Fred bet 5 on DIAMOND
+Rolled CROWN, HEART, CROWN
+Fred lost, balance now 50
+
+Fred bet 5 on HEART
+Rolled HEART, ANCHOR, CROWN
+Fred won 5, balance now 50
+
+Fred bet 5 on CLUB
+Rolled CROWN, CLUB, DIAMOND
+Fred won 5, balance now 50
+
+Fred bet 5 on CROWN
+Rolled DIAMOND, CROWN, ANCHOR
+Fred won 5, balance now 50
+
+Fred bet 5 on CLUB
+Rolled HEART, HEART, CROWN
+Fred lost, balance now 45
+
+Fred bet 5 on CLUB
+Rolled DIAMOND, HEART, DIAMOND
+Fred lost, balance now 40
+
+Fred bet 5 on CLUB
+Rolled DIAMOND, ANCHOR, CLUB
+Fred won 5, balance now 40
+
+Fred bet 5 on CROWN
+Rolled CLUB, CLUB, CLUB
+Fred lost, balance now 35
+
+Fred bet 5 on HEART
+Rolled CLUB, CROWN, CLUB
+Fred lost, balance now 30
+
+Fred bet 5 on DIAMOND
+Rolled HEART, CLUB, ANCHOR
+Fred lost, balance now 25
+
+Fred bet 5 on HEART
+Rolled CROWN, CROWN, CROWN
+Fred lost, balance now 20
+
+Fred bet 5 on DIAMOND
+Rolled ANCHOR, CLUB, CLUB
+Fred lost, balance now 15
+
+Fred bet 5 on ANCHOR
+Rolled HEART, HEART, CLUB
+Fred lost, balance now 10
+
+Fred bet 5 on CLUB
+Rolled DIAMOND, HEART, ANCHOR
+Fred lost, balance now 5
+
+Fred bet 5 on HEART
+Rolled CLUB, HEART, CROWN
+Fred won 5, balance now 5
+
+Fred bet 5 on ANCHOR
+Rolled ANCHOR, CROWN, CLUB
+Fred won 5, balance now 5
+
+Fred bet 5 on HEART
+Rolled CROWN, CLUB, ANCHOR
+Fred lost, balance now 0

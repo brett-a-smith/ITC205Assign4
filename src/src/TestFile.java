@@ -14,7 +14,7 @@ import java.util.List;
 public class TestFile {
     public static void main(String[] args)
     {
-        runOddsCheck();
+        runWinBettingLimitTest();
     }
     
     public static void runWinPayoutTest(DiceValue pick)
